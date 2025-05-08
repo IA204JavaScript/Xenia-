@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  input, select, button {
+    margin-right: 10px;
+  }
+  
+  .green {
+    background-color: #d4edda;
+  }
+  
+  .red {
+    background-color: #f8d7da;
+  }
+  
+  #full-description {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
